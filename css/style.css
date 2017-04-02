@@ -190,7 +190,7 @@ ul.address-text b {
 ul.social-icons{
 	    display: block;
     padding: 0;
-    background:#00a78e;
+    background:#fed102;
     padding:1.3em 0;
     text-align: center;
 	margin:0;
@@ -232,7 +232,7 @@ ul.social-icons{
 background-position: 3px -94px;
 }
 .social-icons li a:hover::before {
-    border-color: #00a78e;
+    border-color: #fed102;
 	    box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
 }
 /*-- wellcome-note --*/
